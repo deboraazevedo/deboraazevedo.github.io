@@ -1,37 +1,19 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Sobre a autora
+tags: [about, author, myself]
+date: 2019-05-25
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+Com uma formação pouco usual, sou graduada em Letras - Inglês e bacharelanda em Tecnologia da Informação. Pode até assustar, mas também tenho formação técnica em Informática e em Redes de Computadores. Atualmente faço mestrado em Inovação em Tecnologias Educacionais.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Amo ensinar. Mesmo nos cursos técnicos, meus TCCs eram voltados a isso: um manual didático para uso do osciloscópio digital (sim, adoro eletricidade haha) e um sisteminha de portfólio para as aulas de sistemas abertos para aprender colaborativamente. Por conta do meu background, posso dizer que já dei aula de Inglês, de programação e de DevOps (como assim? haha), sendo esses dois últimos em cursos livres em eventos que já ministrei.
 
-## Preview
+Falando nesses cursos livres e eventos, lá vem algo que amo tanto quanto ensinar: comunidades. As que faço parte são na área de programação, coisa que por muito tempo pensei não ser capaz de desenrolar. A comunidade Python me ajuda, inclui e empodera. 
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+Faço parte do [PyLadies](http://pyladies.com) como cofundadora e colaboradora do primeiro grupo da América Latina (yay!), o PyLadies Natal. Nesse coletivo, fazemos encontros com palestras e minicursos, além de somar em eventos de tecnologias locais. Pessoalmente, meu envolvimento com programação tem mais haver com programação básica, desevolvimento web e análise de dados, tudo com Python :) Junto das comunidades, tenho contribuído organizando eventos e conferências, como a [Python Brasil [14]](https://2018.pythonbrasil.org.br/), [PyLadiesBR Conf [1]](https://pyladies-brazil.github.io/conf/), workshops [Django Girls](https://djangogirls.org/natal/).
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+Eu adooooro ler, amo trilogias! Os livros da minha vida são a série Harry Potter, e também sou fascinada por literatura policial, com autores como Agatha Christie e Sir Arthur Conan Doyle.
 
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Gosto cozinhar e (des)organizar meu quarto ouvindo Coldplay, minha banda preferida. Gostaria de saber pintar e desenhar. De vez em quando, pego um violão pra tocar e cantar algo pra me sentir feliz. Fazer as pessoas sairem sairem do lugar, aprender, viajar e conhecer novos lugares e culturas são o tipo de coisa que me motivam.
