@@ -193,13 +193,59 @@ Comando `tail`
 $ tail nome-do-arquivo
 ```
 
-Exibe o final do arquivo. O padrão é mostrar as 10 primeiras linhas do arquivo
+Exibe o final do arquivo. O padrão é mostrar as 10 primeiras linhas do arquivo.
 
 
+Comando `grep`
+
+```
+$ grep 'padrão-a-procurar' nome-do-arquivo
+```
+
+Procura arquivos por conteúdo. Ele busca por todas as palavras no arquivo passado que correspondam ao padrão colocado no comando.
+
+
+
+## Mais uns comandinhos aqui
+
+Nessa seção vou mostrar pra vocês alguns outros comandos, à medida que for vendo alguns interessantes para quem tá començando a se aventurar :D
+
+Comando `touch`
+
+```
+$ touch nome-do-arquivo-a-ser-criado.extensão
+```
+
+Cria um novo arquivo. O `touch` é legal porque você pode passar a extensão do arquivo que quer criar também, mas isso é opcional. Quando a extensão não é passada, ele cria um arquivo de texto.
+
+
+Comando `sudo/su`
+
+```
+$ sudo su
+```
+
+Troca para o super usuário do sistema, o usuário `root`. Tem alguns comandos que precisam de poderes a mais que um usuário comum não possui. Para isso, o `sudo su` vai mudar o seu *shell* (termina) para o *shell* do super usuário e, até que você use o comando `exit` você continua com os poderes de super usuário.
+
+Comando `sudo`
+
+```
+$ sudo comando-a-ser-executado-como-super-usuario
+```
+
+Executa o comando passado com poderes de *root* (super usuário). Se você quer executar um comando só como super usuário, você pode usar o `sudo`.
+
+
+**Só não esqueça.....**
+![Com grandes poderes, vem grandes responsabilidades](https://i.gifer.com/5bme.gif)
+
+
+
+<br/>
 E esse foi o post de Introdução ao Linux! Espero que seja de valia para vocês! :D
+
+<br/>
 ![Isso é tudo pessoal](https://media.giphy.com/media/l4pTjOu0NsrLApt0Q/giphy.gif)
-
-
 
 
 
