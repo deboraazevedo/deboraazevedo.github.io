@@ -28,9 +28,9 @@ Observação: No meio de tuuuuuuudo isso, ainda temos o projeto GNU. Essa inicia
 # Caracterização
 
 ## O  Linux  está  sob  a  licença  GPL
-A General Public License (Licensa Pública Geral, livremente traduzido) é a licença para *software* idealizada por Richard Stallman, no final da década de 80. Originalmente essa Licensa foi criada pro projeto GNU, acordado com as definições de *software* livre da [Free Software Foundation](https://www.fsf.org/pt-br).
+A General Public License (Licença Pública Geral, livremente traduzido) é a licença para *software* idealizada por Richard Stallman, no final da década de 80. Originalmente essa Licença foi criada pro projeto GNU, acordado com as definições de *software* livre da [Free Software Foundation](https://www.fsf.org/pt-br).
 
-A GLP está baseada em quatro liberdades, a saber:
+A GPL está baseada em quatro liberdades, a saber:
 * A liberdade de executar o programa, para qualquer propósito (liberdade nº 0)
 * liberdade de estudar como o programa funciona e adaptá-lo às suas necessidades (liberdade nº 1). O acesso ao código-fonte é um pré-requisito para esta liberdade.
 * A liberdade de redistribuir cópias de modo que você possa ajudar ao seu próximo (liberdade nº 2).
