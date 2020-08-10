@@ -193,7 +193,7 @@ Comando `tail`
 $ tail nome-do-arquivo
 ```
 
-Exibe o final do arquivo. O padrão é mostrar as 10 primeiras linhas do arquivo.
+Exibe o final do arquivo. O padrão é mostrar as 10 últimas linhas do arquivo.
 
 
 Comando `grep`
