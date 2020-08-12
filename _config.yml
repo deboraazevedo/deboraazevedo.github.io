@@ -25,6 +25,9 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
+# Google Analytics
+google_analytics: 'UA-175253475-1'
+
 # Comments
 disqus_shortname:   deboraazevedoo
 
