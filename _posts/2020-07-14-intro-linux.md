@@ -18,11 +18,11 @@ Linux é, na verdade, um *kernel*, o núcleo do sistema operacional. O *kernel* 
 
 *Fun fact*: o *kernel Linux* é o **MAIOR** projeto *open source* do mundo, e está disponível [aqui](https://github.com/torvalds/linux). Seu nome vem da brincadeira Linus + Unix. O primeiro é o nome do criador do Linux, Linus Torvalds. E o segundo, Unix, é o nome de um sistema operacional, criado por vários engenheiros e pesquisadores. O projeto Unix era realizado por vários ógãos, como o Massachusets Institute of Technology (MIT), General Eletric (GE), Bell Labs e American Telephone and Telegraph (AT&T).
 
-Tudo isso aconteceu na década de 60, e o Unix passou por várias modificações por parte dessas instituições, sendo elas de código fechado. Aí que entra o Minix - peça chave para a criação do Linux. O Minix é uma versão *open source* do Unix, criado originalmente para uso educacional, para quem quisesse estudar Unix de casa. Importante ressaltar que, apesar do Minix ser uma versão do Unix, não contém nenhum código da AT&T e por isso pode ser distribuído gratuitamente.
+Tudo isso aconteceu na década de 60, e o Unix passou por várias modificações por parte dessas instituições, sendo elas de código fechado. Aí que entra o Minix - peça chave para a criação do Linux. O Minix é uma versão *open source* do Unix, criado originalmente para uso educacional, para quem quisesse estudar Unix de casa. Importante ressaltar que, apesar do Minix ser uma versão do Unix, não contém nenhum código da AT&T e por isso podia ser distribuído gratuitamente.
 
 Aí que chegamos em **Linux = Linux + Unix**: Linus decidiu então desenvolver um sistema mais poderoso que o Minix. Em 1991, ele disponibilizou a versão do *kernel* na versão 0.02 e continuou trabalhando nele, até que em 1994 disponibilizou a versão 1.0.
 
-Observação: No meio de tuuuuuuudo isso, ainda temos o projeto GNU. Essa iniciativa iniciou 1984, que também queria desenvolver um SO que fosse compatível com o padrão Unix. Na época que Linus Torvalds estava desenvolvendo o *kernel* do Linux, começou a usar programas do projeto GNU pra fazer o seu SO. Aí ele acabou deixando o seu *kernel* com a mesma licença. Por conta desse uso de variantes GNU junto do *kernel* Linux, este se tornou um sistema operacional.
+Observação: no meio de tuuuuuuudo isso, ainda temos o projeto GNU. Essa iniciativa iniciou 1984, que também queria desenvolver um SO que fosse compatível com o padrão Unix. Na época que Linus Torvalds estava desenvolvendo o *kernel* do Linux, começou a usar programas do projeto GNU pra fazer o seu sistema operacional. Aí ele acabou deixando o seu *kernel* com a mesma licença. Por conta desse uso de variantes GNU junto do *kernel* Linux, este se tornou um sistema operacional.
 
 
 # Caracterização
@@ -193,7 +193,7 @@ Comando `tail`
 $ tail nome-do-arquivo
 ```
 
-Exibe o final do arquivo. O padrão é mostrar as 10 últimas linhas do arquivo.
+Exibe o final do arquivo. O padrão é mostrar as 10 primeiras linhas do arquivo.
 
 
 Comando `grep`
@@ -238,7 +238,6 @@ Executa o comando passado com poderes de *root* (super usuário). Se você quer 
 
 **Só não esqueça.....**
 ![Com grandes poderes, vem grandes responsabilidades](https://i.gifer.com/5bme.gif)
-
 
 
 <br/>
