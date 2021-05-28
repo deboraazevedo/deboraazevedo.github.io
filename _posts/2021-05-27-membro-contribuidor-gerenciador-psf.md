@@ -34,7 +34,9 @@ Os **membros apoiadores** fazem uma doação anual de pelo menos U$99 (99 dólar
 
 Podemos dizer que o tempo que você destina mensalmente em atividades que **beneficiam a comunidade** pode ser considerado válido para se tornar membro contribuidor ou gerenciador, desde que acumulem ao menos cinco horas mensais.
 
+
 Alguns exemplos dessas atividades: tradução da documentação oficial; realização de eventos que divulgam a linguagem Python; a propria organização desses eventos, sejam eles simples meetups ou eventos internacionais; preparação de materiais e aplicação de cursos abertos e gratuitos que tornem a linguagem mais acessível e conhecida; manter e criar bibliotecas de código aberto em Python; moderação de grupos e fóruns de discussão da linguagem Python.
+
 
 Se você se considera dentro de uma dessas categorias, não deixe de [realizar seu cadastro](https://docs.google.com/forms/d/e/1FAIpQLSfwWBGkzvkWDZrxW3up_M_B7qgt1IWZlx9KJ0ucLA5WJP1vfA/viewform) e votar para eleger o conselho diretor da Python Software Foundation!
 
