@@ -18,7 +18,7 @@ Já o conselho de diretores da PSF tem várias atribuições, e uma lista delas 
 Antes de chegar no conselho, existem pessoas que se candidatam e pessoas que votam para eleger esse conselho. Vamos focar aqui, nas pessoas votantes.
 
 ## Sou da comunidade Python e quero votar! Posso votar? Como faz?
-Tem que ser membro da PSF pra poder votar! Quase todas as categorias de membresia da PSF são elegíveis a voto. A única que não tem direito a voto é a membresia básica (que é gratuita e vocẽ pode fazer [aqui](https://www.python.org/users/membership/) - e faça!). Além de membros básicos, temos membros apoiadores, gerenciadores, contribuidores (traduções livres minhas) e fellows, e todos estes últimos podem votar.
+Tem que ser membro da PSF pra poder votar! Quase todas as categorias de membresia da PSF são elegíveis a voto. A única que não tem direito a voto é a membresia básica (que é gratuita e você pode fazer [aqui](https://www.python.org/users/membership/) - e faça!). Além de membros básicos, temos membros apoiadores, gerenciadores, contribuidores (traduções livres minhas) e fellows, e todos estes últimos podem votar.
 
 **Disclaimer**: essas informações sobre esses membros foram retiradas do [site oficial da PSF](https://www.python.org/psf/membership/).
 
@@ -28,7 +28,7 @@ Os membros apoiadores fazem uma doação anual de pelo menos U$99 (99 dólares a
 ## Membros gerenciadores (managing members)
 Membros gerenciadores são pessoas que dedicam **pelo menos** 5 horas mensais trabalhando para apoiar o ecossistema Python - organizando eventos Python, gerenciando ou contribuindo para projetos da PSF, cuidando da infraestrutura, participando de um dos grupos de trabalho do PSF etc.
 
-## Membros contribuidores
+## Membros contribuidores (contributing members)
 Os membros contribuidores são pessoas que dedicam **pelo menos** cinco horas por mês trabalhando em projetos que avancem a missão do PSF, onde o trabalho se relaciona com a criação ou manutenção de software livre disponível ao público gratuitamente.
 
 ## Fellows
@@ -48,7 +48,7 @@ Se até agora tu acha que ainda não se encaixa em nenhuma dessas membresias, ex
 * Você participa da coordenação ou auxilia ativamente em plataformas de conversação sobre Python, como Telegram, Discord, IRC, fórums e mais? Também tem direito a voto!
 
 
-Para ser mais clara, podemos dizer que o tempo que você destina mensalmente em atividades que beneficiam a comunidade podem ser consideradas atividades válidas paraa se tornar membro contribuidor ou gerenciador, desde que sejam mais de 5 horas mensais. Tradução da documentação, eventos que divulgam a linguagem Python, a propria organização  desses eventos, sejam eles locais ou internacionais, preparação de materiais e aplicação de cursos abertos e gratuitos da linguagem Python, manter e criar bibliotecas em Python, moderação de grupos e fóruns de discussão da linguagem Python são alguns exemplos dessas atividades.
+Para ser mais clara, podemos dizer que o tempo que você destina mensalmente em atividades que beneficiam a comunidade podem ser consideradas atividades válidas para se tornar membro contribuidor ou gerenciador, desde que sejam mais de 5 horas mensais. Tradução da documentação, realizando eventos que divulgam a linguagem Python, a propria organização desses eventos, sejam eles locais ou internacionais, preparação de materiais e aplicação de cursos abertos e gratuitos da linguagem Python, manter e criar bibliotecas em Python, moderação de grupos e fóruns de discussão da linguagem Python são alguns exemplos dessas atividades.
 
 Como comunidade Python aqui no Brasil, também fazemos parte da comunidade Python de forma mais ampla, internacionalmente. Estamos abaixo do código de conduta da PSF, usamos as logomarcas da fundação, quem organiza conferência entra em contato com a PSF para conseguir patrocínio. É muito importante que estejamos a par das coisas que acontecem nesses níveis mais distantes da organização, pois isso pode vir a influenciar, por exemplo, se a linguagem permanecerá livre e gratuita pra uso, ou se terão fundos ou não para fornecer à próxima Python Nordeste, ou Python Brasil, ou para um tutorial Django Girls! Por isso, é importante saber quem está nesses cargos, e querer ter pessoas nossas lá também, que nos represente. Para tanto, é fundamental que tomemos essa posição de sim, eu contribuo com a comunidade Python e vou assumir esse lugar de voto também nesses outros níveis.
 
