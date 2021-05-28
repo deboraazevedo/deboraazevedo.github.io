@@ -48,7 +48,7 @@ Espero que tenha te convencido a realizar sua inscrição na PSF! Se você tiver
 
 A própria PSF reconhece a necessidade de haver mais diversidade em seu conselho diretor, para isso foi pensado numa reforma, abordada nesse [fórum de discussão](https://discuss.python.org/t/psf-board-election-reform/4527). No entanto, como mencionei no Meet & Greet do grupo de trabalho de Diversidade e Inclusão da PSF durante a PyCon US, isso só acontecerá quando houver uma conscientização dos membros votantes. Uma reforma de fato, que traga pessoas diversas para esse conselho, só será possível quando os membros votantes de fato **votem** em candidatos de regiões ainda não bem representadas no conselho atualmente.
 
-Finalmente, gostaria de anunciar que estarei concorrendo mais uma vez à eleição para o conselho de diretores da PSF neste ano. Estou finalizando meu statement (texto da minha candidatura), que publicarei aqui, em português e - com fé e ajuda haha - em espanhol também.
+Finalmente, gostaria de anunciar que estarei concorrendo mais uma vez à eleição para o conselho de direores da PSF neste ano. Estou finalizando meu statement (texto da minha candidatura), que publicarei aqui, em português e - com fé e ajuda haha - em espanhol também.
 
 Obrigada por ler até aqui :)
 
