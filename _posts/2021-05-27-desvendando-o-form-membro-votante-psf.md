@@ -11,7 +11,7 @@ Olá!
 
 Depois do [post](https://deboraazevedo.github.io/membro-contribuidor-gerenciador-psf/) que fiz sobre como saber se posso me autodeclarar membro contribuidor ou gerenciador da [PSF](https://www.python.org/psf/about/) (com direito a voto nas [eleições do conselho de diretores]((https://www.python.org/nominations/elections/)) da PSF), fiz esse outro post para ir destrinchado cada campo do [formulário]((https://docs.google.com/forms/d/e/1FAIpQLSfwWBGkzvkWDZrxW3up_M_B7qgt1IWZlx9KJ0ucLA5WJP1vfA/viewform)) de autodeclaração de membro (contribuidor ou gerenciador) da PSF.
 
-**Disclaimer**: no caso de você não fazer parte das membresias desse formulário (vide (esse post)[https://deboraazevedo.github.io/membro-contribuidor-gerenciador-psf/] para saber), você pode se inscrever como membro básico da PSF, que é gratuito, nesse [link](https://www.python.org/users/membership/) aqui :D
+**Disclaimer**: no caso de você não fazer parte das membresias desse formulário (vide [esse post](https://deboraazevedo.github.io/membro-contribuidor-gerenciador-psf/) para saber), você pode se inscrever como membro básico da PSF, que é gratuito, nesse [link](https://www.python.org/users/membership/) aqui :D
 
 Vamos desvendar cada um dos campos do formulário de de autodeclaração de membro (contribuidor ou gerenciador) da PSF, pra ficar claro com o que preencher.
 
