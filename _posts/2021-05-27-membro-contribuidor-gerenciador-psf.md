@@ -7,60 +7,49 @@ comments: true
 
 ![Logo da PSF](https://programadoresbrasil.com.br/wp-content/uploads/2019/10/python-software-foundation.png)  
 
-Oi, gente!
 
-Agora em Junho, dia 8, teremos a [eleição](https://www.python.org/nominations/elections/) para o conselho de diretores da Python Software Foundation, a [PSF](https://www.python.org/psf/about/). A Python Software Foundation é uma organização sem fins lucrativos dedicada ao avanço da tecnologia de código aberto relacionada à linguagem de programação Python. Tem como missão promover, proteger e fazer avançar a linguagem de programação Python, apoiando e facilitando o crescimento de uma comunidade diversa e internacional de programadores Python.
-
-Já o conselho de diretores da PSF tem várias atribuições, e uma lista delas você pode encontrar [aqui](https://discuss.python.org/t/interested-in-running-for-the-psf-board-read-about-board-responsibilities-here/8564) (a lista tá em inglês). Entre essas atribuições, estão os deveres fiduciários (ter que agir com diligência e lealdade e a não intervir em caso de conflito de interesse), participação em reuniões mensais, participação em grupos de trabalho da PSF, entre outros. Também se espera que membros do conselho ativamente promovam a PSF e seus programas em seus grupos de networking e em eventos Python. Ano passado gravaram um [vídeo](https://www.youtube.com/watch?v=ZLKj6FaQA4M) sobre como é a vida de um diretor da PSF que ficou bem legal, explicando sobre as atribuições e o tempo dedicado à organização.
-
-
-# Quem pode votar?
-Antes de chegar no conselho, existem pessoas que se candidatam e pessoas que votam para eleger esse conselho. Vamos focar aqui, nas pessoas votantes.
+Dia 8 de junho teremos a [eleição](https://www.python.org/nominations/elections/) para o conselho de diretores da Python Software Foundation, a [PSF](https://www.python.org/psf/about/). A Python Software Foundation é uma organização sem fins lucrativos dedicada ao avanço da tecnologia de código aberto relacionada à linguagem de programação Python. Tem como missão promover, proteger e fazer avançar a linguagem de programação Python, apoiando e facilitando o crescimento de uma comunidade diversa e internacional de programadores Python, e seus diretores tem papel importante nas decisões sobre os rumos que a linguagem e comunidade tomarão no futuro.
 
 ## Sou da comunidade Python e quero votar! Posso votar? Como faz?
-Tem que ser membro da PSF pra poder votar! Quase todas as categorias de membresia da PSF são elegíveis a voto. A única que não tem direito a voto é a membresia básica (que é gratuita e você pode fazer [aqui](https://www.python.org/users/membership/) - e faça!). Além de membros básicos, temos membros apoiadores, gerenciadores, contribuidores (traduções livres minhas) e fellows, e todos estes últimos podem votar.
+Para votar é necessário ser membro da PSF, mas não, não desanime agora, porque você pode sim ser membro da PSF!
+A PSF possui cinco categorias de membros, quatro delas são elegíveis a voto.
+
+Todas as pessoas são bem-vindas a serem **membros básicos** da PSF, e você pode fazer sua inscrição gratuita [aqui](https://www.python.org/users/membership/). Contudo, membros básicos não possuem direito a voto.
+
+Além de membros básicos, temos membros apoiadores, gerenciadores, contribuidores (traduções livres minhas) e fellows, e todos estes últimos podem votar.
+
+Os **membros apoiadores** fazem uma doação anual de pelo menos U$99 (99 dólares americanos) à PSF para sustentar a Fundação e apoiar a comunidade Python.
+
+**Membros gerenciadores** (managing members) são pessoas que dedicam **pelo menos** cinco horas mensais trabalhando para apoiar o ecossistema Python - organizando eventos Python, gerenciando ou contribuindo para projetos da PSF, cuidando da infraestrutura, participando de um dos grupos de trabalho do PSF etc.
+
+**Membros contribuidores** (contributing members) são pessoas que dedicam **pelo menos** cinco horas por mês trabalhando em projetos que avancem a missão do PSF, onde o trabalho se relaciona com a criação ou manutenção de software livre disponível ao público gratuitamente.
+
+**Fellows** são membros nomeados por seus extraordinários esforços e impacto sobre a linguagem Python, a comunidade e o ecossistema Python mais amplo.
+
 
 **Disclaimer**: essas informações sobre esses membros foram retiradas do [site oficial da PSF](https://www.python.org/psf/membership/).
-
-## Membros apoiadores (supporting members)
-Os membros apoiadores fazem uma doação anual de pelo menos U$99 (99 dólares americanos) à PSF para sustentar a Fundação e apoiar a comunidade Python.
-
-## Membros gerenciadores (managing members)
-Membros gerenciadores são pessoas que dedicam **pelo menos** 5 horas mensais trabalhando para apoiar o ecossistema Python - organizando eventos Python, gerenciando ou contribuindo para projetos da PSF, cuidando da infraestrutura, participando de um dos grupos de trabalho do PSF etc.
-
-## Membros contribuidores (contributing members)
-Os membros contribuidores são pessoas que dedicam **pelo menos** cinco horas por mês trabalhando em projetos que avancem a missão do PSF, onde o trabalho se relaciona com a criação ou manutenção de software livre disponível ao público gratuitamente.
-
-## Fellows
-Fellows são membros nomeados por seus extraordinários esforços e impacto sobre a linguagem Python, a comunidade e o ecossistema Python mais amplo. Fellows são pessoas nomeadas pela da comunidade em geral e elevadas a fellow por voto de outras pessoas que também são fellow.
 
 ## Quando posso me considerar contributing/managing member?
 ### Dessas categorias, os membros contribuidores e gerenciadores são os que causam mais dúvidas: como saber se me encaixo em uma dessas categorias?
 
-Se até agora tu acha que ainda não se encaixa em nenhuma dessas membresias, existem algumas atividades (não restritas a essas), que são traduzidas em trabalho pela comunidade Python. Aqui listo algumas:
-
-* Você está organizando um encontro/workshop/grupo local? seguro entre o horário dos eventos, organização, reuniões, contato com palestrantes, etc. você contribui com 5 horas mensais ou mais, já é considerado pela comunidade!
-
-* Você ajudou a organizar uma conferência? As conferências também contam! e todo o tempo que você dedicar às reuniões e trabalhos relacionados ao evento, como divulgação, geração de conteúdo, etc. é válido
-
-* Você está contribuindo para um projeto de código aberto que usa Python ou está relacionado a Python? Se você está trabalhando pelo menos 5 horas mensais em um ou mais projetos, também é mais do que suficiente ser membro contribuidor (contribuiting member).
-
-* Você participa da coordenação ou auxilia ativamente em plataformas de conversação sobre Python, como Telegram, Discord, IRC, fórums e mais? Também tem direito a voto!
+Podemos dizer que o tempo que você destina mensalmente em atividades que **beneficiam a comunidade** pode ser considerado válido para se tornar membro contribuidor ou gerenciador, desde que acumulem ao menos cinco horas mensais.
 
 
-Para ser mais clara, podemos dizer que o tempo que você destina mensalmente em atividades que beneficiam a comunidade podem ser consideradas atividades válidas para se tornar membro contribuidor ou gerenciador, desde que sejam mais de 5 horas mensais. Tradução da documentação, realização de eventos que divulgam a linguagem Python, a propria organização desses eventos, sejam eles locais ou internacionais, preparação de materiais e aplicação de cursos abertos e gratuitos da linguagem Python, manter e criar bibliotecas em Python, moderação de grupos e fóruns de discussão da linguagem Python são alguns exemplos dessas atividades.
-
-Como comunidade Python aqui no Brasil, também fazemos parte da comunidade Python de forma mais ampla, internacionalmente. Estamos abaixo do código de conduta da PSF, usamos as logomarcas da fundação, quem organiza conferência entra em contato com a PSF para conseguir patrocínio. É muito importante que estejamos a par das coisas que acontecem nesses níveis mais distantes da organização, pois isso pode vir a influenciar, por exemplo, se a linguagem permanecerá livre e gratuita pra uso, ou se terão fundos ou não para fornecer à próxima Python Nordeste, ou Python Brasil, ou para um tutorial Django Girls! Por isso, é importante saber quem está nesses cargos, e querer ter pessoas nossas lá também, que nos represente. Para tanto, é fundamental que tomemos essa posição de sim, eu contribuo com a comunidade Python e vou assumir esse lugar de voto também nesses outros níveis.
-
-Caso depois de tudo isso que você leu aqui, se tu se acha uma pessoa apta a ser membro da PSF, seja básico, contribuidor ou gerenciador, se inscreva! Para ser membro básico, clica [aqui](https://www.python.org/users/membership/). O link para o formulário para membros contribuidores e gerenciadores é esse [aqui](https://docs.google.com/forms/d/e/1FAIpQLSfwWBGkzvkWDZrxW3up_M_B7qgt1IWZlx9KJ0ucLA5WJP1vfA/viewform). Vou falar de cada campo dele, pra ficar claro com o que preencher [nesse post](https://deboraazevedo.github.io/desvendando-o-form-membro-votante-psf/).
+Alguns exemplos dessas atividades: tradução da documentação oficial; realização de eventos que divulgam a linguagem Python; a propria organização desses eventos, sejam eles simples meetups ou eventos internacionais; preparação de materiais e aplicação de cursos abertos e gratuitos que tornem a linguagem mais acessível e conhecida; manter e criar bibliotecas de código aberto em Python; moderação de grupos e fóruns de discussão da linguagem Python.
 
 
+Se você se considera dentro de uma dessas categorias, não deixe de [realizar seu cadastro](https://docs.google.com/forms/d/e/1FAIpQLSfwWBGkzvkWDZrxW3up_M_B7qgt1IWZlx9KJ0ucLA5WJP1vfA/viewform) e votar para eleger o conselho diretor da Python Software Foundation!
 
-# E finalmente....
+Como comunidade Python no Brasil, também fazemos parte da comunidade Python internacional, nos guiamos pelo código de conduta da PSF, usamos as logomarcas da fundação e tantos outros recursos. É muito importante que estejamos informados sobre o que acontece na PSF, pois isso pode influenciar, por exemplo, se a linguagem permanecerá livre e gratuita pra uso ou como serão destinados os recursos para patrocínio de eventos. É importante saber quem nos representará no conselho diretor, e querer representantes mais próximos, por isso é muito importante assumirmos nossas posições de membros votantes.
 
-Depois de muita discussão sobre como fazer isso, incluindo uma discussão no [próprio fórum de discussão do Python](https://discuss.python.org/t/psf-board-election-reform/4527), foi pensada numa reforma  sobre como trazer mais diversidade para o conselho de diretores da PSF. No entanto, como falei no Meet & Greet do grupo de trabalho de Diversidade e Inclusão da PSF durante a PyCon US, isso só vai acontecer quando se houver uma conscientização dos membros votantes, para que algo realmente possa ser feito. Uma reforma de fato, que traga pessoas diversas para esse conselho só será possível quando as pessoas que são membras votantes de fato VOTEM em membros de regiões ainda não bem representadas no conselho atualmente.
+Espero que tenha te convencido a realizar sua inscrição na PSF! Se você tiver alguma dúvida sobre o preenchimento dele, este outro [post](https://deboraazevedo.github.io/desvendando-o-form-membro-votante-psf/) pode ser útil. Nele explicarei quais são as informações esperadas em cada campo e como efetivamente realizar a sua inscrição, seja como membro básico, contribuidor, gerenciador ou apoiador.
 
-Finalmente, deixo aqui que estarei sim concorrendo mais uma vez na eleição do conselho de diretores da PSF esse ano. Estou finalizando o meu statement (texto da minha candidatura), e publicarei ele aqui, em Português e - com fé e ajuda haha - em espanhol (já que no site oficial ele já aparece em inglês)
+
+# Considerações finais sobre o voto
+
+A própria PSF reconhece a necessidade de haver mais diversidade em seu conselho diretor, para isso pensada numa reforma, abordada nesse [fórum de discussão](https://discuss.python.org/t/psf-board-election-reform/4527). No entanto, como mencionei no Meet & Greet do grupo de trabalho de Diversidade e Inclusão da PSF durante a PyCon US, isso só acontecerá quando houver uma conscientização dos membros votantes. Uma reforma de fato, que traga pessoas diversas para esse conselho, só será possível quando as pessoas membras votantes de fato **votem** em candidatos de regiões ainda não bem representadas no conselho atualmente.
+
+Finalmente, gostaria de anunciar que estarei concorrendo mais uma vez à eleição para o conselho de diretores da PSF neste ano. Estou finalizando meu statement (texto da minha candidatura), que publicarei aqui, em Português e - com fé e ajuda haha - em espanhol também.
 
 Obrigada por ler até aqui :)
 
