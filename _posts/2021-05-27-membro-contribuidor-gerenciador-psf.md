@@ -52,4 +52,4 @@ Finalmente, gostaria de anunciar que estarei concorrendo mais uma vez à eleiç�
 
 Obrigada por ler até aqui :)
 
-![Minha assinatura](https://github.com/deboraazevedo/deboraazevedo.github.io/blob/master/assets/img/signature.gif)
+![Minha assinatura](/assets/img/signature.gif "Minha assinatura")
