@@ -95,6 +95,7 @@ Como miembro de la Junta Directiva, hay algunos objetivos que me gustaría conve
 
 ## Premios
 Ganadora del premio PSF Community Service Award Q4 (2019)
+
 Ganadora del premio Dorneles Treméa-Jean Ferri (2020)
 
 ## En pocas palabras ...
