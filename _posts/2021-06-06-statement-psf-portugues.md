@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Meu texto de candidatura para o conselho de diretor da PSF"
+title:  "Meu texto de candidatura para o conselho de diretores da PSF"
 date:   2021-06-06
 comments: true
 ---
