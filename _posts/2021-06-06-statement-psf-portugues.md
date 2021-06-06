@@ -6,7 +6,7 @@ comments: true
 ---
 
 
-Olá a todos!
+Olá!
 
 Com as próximas eleições para a diretoria do PSF agora em 8 de Junho, decidi traduzir meu texto de candidatura para o espanhol e o português. Visto que uma de minhas intenções é representar especialmente as comunidades da América Latina, achei que seria uma boa ideia traduzir minha declaração para que seja acessível a essas pessoas.
 
