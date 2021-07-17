@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Intalando o Ubuntu 20.04.2.0 LTS - passo a passo"
+title:  "Instalando o Ubuntu 20.04.2.0 LTS - passo a passo"
 date:   2021-07-17
 comments: true
 ---
